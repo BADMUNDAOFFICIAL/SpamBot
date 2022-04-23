@@ -1,17 +1,17 @@
 {
-    "name": "RIZOELXSPAM HERE.",
+    "name": "MAFIAXSPAM HERE.",
     "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
-    "logo": "https://telegra.ph/file/db194f99e15db50f43c72.jpg",
+    "logo": "https://telegra.ph/file/48d6477bfcf3a1c68c277.jpg
     "keywords": [
         "telegram",
         "telethon",
         "telegram-bot",
-        "RiZoeLXSpam",
+        "MAFIAXSpam",
         "SpamBots"
     ],
-    "repository": "https://t.me/TheRiZoeL",
-    "website": "https://t.me/TheRiZoeL",
-    "success_url": "https://t.me/TheRiZoeL",
+    "repository": "https://t.me/Tuhi_mra_guggu_buggu_jeya_pyara",
+    "website": "https://t.me/OFFICIAL_BROKEN_MAFIA",
+    "success_url": "https://t.me/Tuhi_mra_guggu_buggu_jeya_pyara",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
@@ -19,7 +19,7 @@
         "required": true
       },
       "ALIVE_PIC": {
-        "description": "your alive pic or video",
+        "description": "your alive pic",
         "value": "",
         "required": false
       },
